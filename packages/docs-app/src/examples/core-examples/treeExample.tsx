@@ -137,7 +137,7 @@ const INITIAL_STATE: ITreeNode[] = [
         hasCaret: true,
         icon: "folder-close",
         label: "Super secret files",
-        disabled: true,
+        disabled: false,
     },
 ];
 /* tslint:enable:object-literal-sort-keys */
